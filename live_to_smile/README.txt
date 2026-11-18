@@ -1,5 +1,7 @@
 LIVE TO SMILE PVT. LTD. — UPDATED WEBSITE
-Extract the ZIP and keep all HTML pages beside the css, js and assets folders. Open index.html in Chrome or open the folder in VS Code.
+Keep all HTML pages beside the css, js and assets folders. Open index.html in Chrome or open the folder in VS Code.
+
+VERCEL DEPLOYMENT: In Project Settings > Build and Deployment, set the Root Directory to live_to_smile and the Framework Preset to Other. Leave the Build Command empty and set the Output Directory to . (the project root). Redeploy after saving. The root directory must contain index.html, css, js and assets.
 
 PAGES: Home, About, Services, Education, Motivation & Mentoring, Our Team, Counselling, Contact.
 TEAM: Click/tap either founder portrait to expand the profile. Ahammed Shareen's biography and qualifications are based on information supplied for this project. Irfad Maipady's profile can be expanded with further verified details later.
